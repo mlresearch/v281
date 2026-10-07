@@ -3,7 +3,7 @@ booktitle: Proceedings of The First AAAI Bridge Program on AI for Medicine and H
 shortname: AIMedHealth
 year: '2025'
 volume: '281'
-start: &1 2025-02-25
+start: 2025-02-25
 end: 2025-02-25
 published: 2025-04-22
 layout: proceedings
@@ -74,7 +74,7 @@ conference:
   url: https://sites.google.com/view/aimedhealth-aaai/home
   location: Pennsylvania Convention Center, Philadelphia, Pennsylvania, USA
   dates:
-  - *1
+  - 2025-02-25
 analytics:
   google:
     tracking_id: UA-92432422-1
